@@ -1,0 +1,12 @@
+<mvc:View controllerName="productsbycategories.controller.ItemDetail"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m"
+    xmlns:l="sap.ui.layout"
+	xmlns:f="sap.ui.layout.form"
+	xmlns:core="sap.ui.core">
+
+	<core:Fragment fragmentName="productsbycategories.fragments.buttonBack" type="XML" />
+	<core:Fragment fragmentName="productsbycategories.fragments.pageItemDetail" type="XML" />
+	<core:Fragment fragmentName="productsbycategories.fragments.titleItemDetail" type="XML" />
+
+</mvc:View>

@@ -1,0 +1,44 @@
+{
+    "Categories": [
+        {
+            "key": 1,
+            "text": "Backery"
+        },
+        {
+            "key": 2,
+            "text": "Beverages"
+        },
+        {
+            "key": 3,
+            "text": "Condiments"
+        },
+        {
+            "key": 4,
+            "text": "Confections"
+        },
+        {
+            "key": 5,
+            "text": "Dairy Products"
+        },
+        {
+            "key": 6,
+            "text": "Delicatessen"
+        },
+        {
+            "key": 7,
+            "text": "Grains/Cereals"
+        },
+        {
+            "key": 8,
+            "text": "Meat/Poultry"
+        },
+        {
+            "key": 9,
+            "text": "Produce"
+        },
+        {
+            "key": 10,
+            "text": "Seafood"
+        }
+    ]
+}
